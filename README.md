@@ -6,6 +6,8 @@
 
 이 두 서비스의 생태계를 통해 **MyPort + FOLIO = 마이포트폴리오** 라는 대학생 커리어 및 인턴 채용 시장을 어우르는 시스템을 구축하고자 하였습니다.
 
-[MyPort 개발현황 스크린샷.pdf](https://github.com/aiden0407/MYPORT/files/13420963/MyPort.pdf)
+- [Wix로 제작한 홈페이지 archive](https://admin650758.wixsite.com/myport) (백엔드 서버가 내려가서 회원가입은 불가능)
 
-[FOLIO 서비스 소개서.pdf](https://github.com/aiden0407/MYPORT/files/13420964/_.pdf)
+- [MyPort 앱 실제 구동 스크린샷.pdf](https://github.com/aiden0407/MYPORT/files/13420963/MyPort.pdf)
+
+- [FOLIO 서비스 소개서.pdf](https://github.com/aiden0407/MYPORT/files/13420964/_.pdf)
